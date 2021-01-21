@@ -8,4 +8,4 @@
 
 # react
 
-1. 《dan 的博客》(https://overreacted.io/)
+- 《dan 的博客》(https://overreacted.io/)
